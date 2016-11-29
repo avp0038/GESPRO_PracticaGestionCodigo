@@ -32,3 +32,5 @@ En un contexto dentro la Universidad de Burgos existen gran cantidad de proyecto
 Con este trabajo se ha pretendido avanzar en el proceso de gestión de proyectos, incorporando y adaptando algunas actividades propias de la ingeniería del software como: monitorización y control del proceso, revisiones, evaluación y medición. Además de incidir en fomentar la cultura de calidad entre el alumnado de una manera práctica.
 
 Este proyecto tiene como objetivo principal la evolución y el mantenimiento de este modelo de gestión de la asignatura trabajo final de carrera dentro de un contexto de un proyecto de grado del Grado en Ingeniería Informática o Máster Universitario en Ingeniería Informática de la Universidad de Burgos.
+
+AA
