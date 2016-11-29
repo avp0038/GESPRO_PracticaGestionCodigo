@@ -163,7 +163,7 @@
 				<include name="ubu\lsi\ii\sistinf\**\*.java" />
 			</fileset>
 			<link href="http://docs.oracle.com/javase/7/docs/api/" packagelistLoc="${rsc.dir}\packagelists\java" offline="true" />
-			<link href="http://www.jfree.org/jfreechart/api/javadoc/" packagelistLoc="${rsc.dir}\packagelists\jfreechart" offline="false" />
+			<include name="ubu/lsi/ii/sistinf/**/*.java" />
 		</javadoc>
 	</target>
 

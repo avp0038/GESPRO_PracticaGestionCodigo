@@ -74,13 +74,13 @@ public abstract class DocSistInfHtml {
      * URl de la ruta donde se encuentra el javascript de google analitics.
      */
     protected static final String WEB_JS_GOOGLEANALITICS_JS = DIROUT
-            + "\\js\\googleanalitics.js";
+            + /js/googleanalitics.js"";
 
     /**
      * URl de la ruta donde se encuentra el javascript de addThis.
      */
     protected static final String WEB_JS_ADDTHIS_JS = DIROUT
-            + "\\js\\addThis.js";
+         + "/js/google_translate.js";
 
     /**
      * URl de la ruta donde se encuentra el javascript de google translate.
